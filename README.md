@@ -39,7 +39,7 @@ order by count(*) DESC
 ![README.md](ica4-3.png)
 
 ## Question 4
---What is the heaviest player in the school
+--What is the weight most player have in the school
 
 ```sql
 SELECT
